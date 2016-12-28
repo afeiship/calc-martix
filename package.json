@@ -1,9 +1,9 @@
 {
-  "name": "calc-martix",
+  "name": "calc-matrix",
   "version": "1.0.0",
   "description": "Calculate matrix to object value.",
   "main": "index.js",
-  "repository": "git@github.com:afeiship/calc-martix.git",
+  "repository": "git@github.com:afeiship/calc-matrix.git",
   "author": "feizheng <1290657123@qq.com>",
   "license": "MIT"
 }
